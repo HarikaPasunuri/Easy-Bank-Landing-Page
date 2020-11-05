@@ -1,0 +1,12 @@
+body{
+    margin-top:30px;
+    background-image: image('images\bg-intro-desktop.svg');
+}
+.mode{
+  
+    margin:2px;
+    padding:10px;
+}
+.text{
+    margin-top:50px;
+}
